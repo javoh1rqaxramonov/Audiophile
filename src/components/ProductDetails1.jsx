@@ -135,7 +135,13 @@ function ProductDetails1() {
           {/* ----------------- */}
           <div>
             <h2>YOU MAY ALSO LIKE</h2>
-            <div></div>
+            <div>
+              <div>
+                <div>
+                  <img src="" alt="" />
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
